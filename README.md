@@ -1,3 +1,17 @@
+Openbox Theme Collections (forked)
+---
+### Useful Links
+- [Openbox Theme](this repo)
+- [Extra GTK Theme](https://github.com/awsp/gtk-theme-collections)
+- [Awesome List](https://github.com/aleksandar-todorovic/awesome-linux)
+
+### Notes
+- Clone the 2 repos to `.themes` will have conflicts, merge them later by cloning to different folders first. 
+- Manjaro Openbox is still missing a lot of essential features, research is needed. 
+
+
+---
+
 # My Openbox Theme Collections
 As the title said, this is my personal repo contains my Openbox theme collections.
 These themes are just window decorator.
