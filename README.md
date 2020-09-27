@@ -1,14 +1,17 @@
 Openbox Theme Collections (forked)
 ---
+Forked for better version controls
+
 ### Useful Links
-- [Openbox Theme](this repo)
-- [Extra GTK Theme](https://github.com/awsp/gtk-theme-collections)
+- [Openbox Theme](this repo) **forekd**
+- [Extra GTK Theme](https://github.com/awsp/gtk-theme-collections) **forked**
+- [ORW](https://github.com/awsp/orw) **forked**
 - [Awesome List](https://github.com/aleksandar-todorovic/awesome-linux)
+
 
 ### Notes
 - Clone the 2 repos to `.themes` will have conflicts, merge them later by cloning to different folders first. 
 - Manjaro Openbox is still missing a lot of essential features, research is needed. 
-
 
 ---
 
